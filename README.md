@@ -3,6 +3,7 @@
 Definirajte klasu ProgramskiJezik sa sljedećim članicama:
 
 • varijabla tipa double postotak
+
 • svojstvo Postotak
 
 Definirajte klase Proceduralni, Objektni i Funkcionalni izvedene od klase ProgramskiJezik.
