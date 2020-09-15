@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\KlaseMetodeKonstruktori\KlaseMetodeKonstruktori\obj\Debug\KlaseMetodeKonstruktori.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\KlaseMetodeKonstruktori\KlaseMetodeKonstruktori\obj\Debug\KlaseMetodeKonstruktori.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\KlaseMetodeKonstruktori\KlaseMetodeKonstruktori\bin\Debug\KlaseMetodeKonstruktori.exe.config
+C:\Users\Korisnik\source\repos\KlaseMetodeKonstruktori\KlaseMetodeKonstruktori\bin\Debug\KlaseMetodeKonstruktori.exe
+C:\Users\Korisnik\source\repos\KlaseMetodeKonstruktori\KlaseMetodeKonstruktori\bin\Debug\KlaseMetodeKonstruktori.pdb
+C:\Users\Korisnik\source\repos\KlaseMetodeKonstruktori\KlaseMetodeKonstruktori\obj\Debug\KlaseMetodeKonstruktori.exe
+C:\Users\Korisnik\source\repos\KlaseMetodeKonstruktori\KlaseMetodeKonstruktori\obj\Debug\KlaseMetodeKonstruktori.pdb
