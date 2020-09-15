@@ -1,6 +1,7 @@
 # KlaseMetodeKonstruktori
 
 Definirajte klasu ProgramskiJezik sa sljedećim članicama:
+
 • varijabla tipa double
    postotak
 • svojstvo
